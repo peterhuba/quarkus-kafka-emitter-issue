@@ -1,4 +1,4 @@
-# Quarkus reproducer app for issue "Unable to connect an emitter with the channel"
+# Quarkus reproducer app for issue "Unable to connect an emitter with the channel" https://github.com/quarkusio/quarkus/issues/23471
 
 To run:
 * run `docker-compose up` in directory `src/main/db/`
